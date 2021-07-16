@@ -1,0 +1,1 @@
+create table cart(Pid int identity,Username varchar(50),img varchar(50),Pname varchar(50),Price varchar(50),quantity varchar(50))
